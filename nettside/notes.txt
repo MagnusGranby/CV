@@ -1,0 +1,24 @@
+Hovedfarger
+    Electric Indigo: #6F00FF → kan brukes til overskrifter, knapper, accenter.
+    Mørk blå: #0A1F44 → Footer, sidebar.
+    Hvit-blå: #c4ddf7→ Bakgrunn
+    Lys blå: #4DA8DA → knapper, lenker, hover-effekter.
+    
+
+Komplement/akkent
+    Hvit: #FFFFFF → tekst, bakgrunnselementer.
+    Lysegrå: #E5E5E5 → bakgrunn for kort, seksjoner, skillelinjer.
+    Mørkegrå: #2B2B2B → tekst som ikke skal være svart, men fortsatt lesbar.
+
+
+
+    <div class="sidebar">
+        <h1>Magnus Granby</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Hjem</a></li>
+                <li><a href="arb-utd.html">Arbeidserfaring og Utdannelse</a></li>
+                <li><a href="ferd-hob.html">Ferdigheter og Hobbyer</a></li>
+                <li><a href="ref.html">Referanser</a></li>
+            </ul>
+    </div>
