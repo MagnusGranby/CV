@@ -28,6 +28,7 @@
 .sidebar nav a {
     display: block;
     padding: 5px;
+    font-size: larger;
 }
 
 .sidebar nav ul {
